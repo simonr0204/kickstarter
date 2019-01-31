@@ -1,0 +1,8 @@
+
+# Ignore everything
+*
+
+# But not these files...
+!kickstarter_success_prediction.ipynb
+!.gitignore
+!README.md
